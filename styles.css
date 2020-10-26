@@ -1,0 +1,64 @@
+.container2 {
+    display: flex;
+    justify-content: space-around;
+}
+
+.captions {
+    display: flex;
+    justify-content: space-around;
+    font-family: 'Cinzel', serif;
+    font-family: 'Fredoka One', cursive;
+}
+
+.title {
+    text-align: center;
+    font-size: 100px;
+    color: #f67280;
+    border: 5px solid #f8b195;
+    font-family: 'Bebas Neue', cursive;
+}
+
+.quote {
+    text-align: center;
+    font-size: 40px;
+    color: #c06c84;
+    font-family: 'Acme', sans-serif;
+}
+
+.image1 {
+    width: 450px;
+    height: 300px;
+    background-color: white;
+    border:20px solid #6c5b7b;
+}
+
+.image2 {
+    width: 450px;
+    height: 300px;
+    background-color: white;
+    border: 20px solid #6c5b7b;
+    float: right;
+}
+
+.image3 {
+    width: 450px;
+    height: 300px;
+    border: 20px solid #6c5b7b;
+}
+
+body {
+    background-color: #355c7d;
+}
+
+.donate {
+    width: 150px;
+    height: 50px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.speech {
+    text-align: center;
+    font-family: 'Orbitron', sans-serif;
+}
